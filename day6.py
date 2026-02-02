@@ -1,4 +1,4 @@
-# list-- it is the colection of items which is ordered, chmngable and allows duplicate values
+# list-- it is the colection of items which is ordered, changable and allows duplicate values
 
 myList = [10,20,50,70]
 print(myList)  # [10, 20, 50, 70]
